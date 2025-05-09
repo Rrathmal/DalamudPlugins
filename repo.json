@@ -1,0 +1,24 @@
+[
+{
+  "Author": "Rrathmal",
+  "Name": "Goldfinger Cosmoliner",
+  "InternalName": "GFSurfLines",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Starts and stops playing Superman by Goldfinger whenever riding the Cosmoliner. Because I'm a superman.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "plugin",
+    "music"
+  ],
+  "DalamudApiLevel": 12,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Plays Superman by Goldfinger when using the Cosmoliner",
+  "AcceptsFeedback": true,
+  "DownloadLinkInstall": "https://github.com/Rrathmal/DalamudPlugins/GoldfingerCosmoliner/releases/Install/1.0.0.0.zip",
+  "DownloadLinkTesting": "https://github.com/Rrathmal/DalamudPlugins/GoldfingerCosmoliner/releases/Install/1.0.0.0.zip",
+  "DownloadLinkUpdate": "https://github.com/Rrathmal/DalamudPlugins/GoldfingerCosmoliner/releases/Install/1.0.0.0.zip"
+}
+]
