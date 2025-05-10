@@ -3,7 +3,7 @@
   "Author": "Rrathmal",
   "Name": "Goldfinger Cosmoliner",
   "InternalName": "GFSurfLines",
-  "AssemblyVersion": "1.0.1.0",
+  "AssemblyVersion": "1.0.2.0",
   "Description": "Starts and stops playing Superman by Goldfinger whenever riding the Cosmoliner. Because I'm a superman.",
   "ApplicableVersion": "any",
   "Tags": [
